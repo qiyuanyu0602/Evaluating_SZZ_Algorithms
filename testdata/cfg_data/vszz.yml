@@ -1,0 +1,9 @@
+szz_name: "v"                
+# ast_map_path: "/home/laoyu/pyszz/ASTMapEval_jar"  
+# use_temp_dir: false           
+file_ext_to_parse:           
+  - "c"
+  - "cpp"
+  # - "java"
+only_deleted_lines: true
+use_ast: false      
