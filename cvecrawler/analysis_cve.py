@@ -80,5 +80,5 @@ def analyze_cve_data(excel_path):
 
 if __name__ == "__main__":
     # 替换为你的Excel文件路径
-    excel_file_path = "C:\\Users\\84525\\Desktop\\testdata\\源文件\\cve_info.xlsx"  # 例如："cve_info.xlsx"
+    excel_file_path = "cve_info.xlsx"  # 例如："cve_info.xlsx"
     analyze_cve_data(excel_file_path)
