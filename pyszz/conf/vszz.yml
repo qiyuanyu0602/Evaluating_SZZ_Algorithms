@@ -1,0 +1,7 @@
+szz_name: "v"                # 指定使用VSZZ算法
+ast_map_path: "/home/laoyu/pyszz/ASTMapEval_jar"  # AST映射工具路径（如ASTMapEval.jar所在目录）
+use_temp_dir: false            # 是否使用临时目录（可选，默认true）
+file_ext_to_parse:            # 需要分析的文件扩展名
+  - "c"
+  - "cpp"
+only_deleted_lines: true      # 是否只关注删除的行（可选，默认true）

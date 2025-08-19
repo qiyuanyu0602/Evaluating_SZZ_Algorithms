@@ -1,0 +1,51 @@
+[
+{
+  "cveid": "CVE-2025-38287", 
+  "repo_name": "torvalds/linux", 
+  "fix_commit_hash": "7590649ee7af381a9d1153143026dec124c5798e", 
+  "vic_sha": "1e5159219076ddb2e44338c667c83fd1bd43dfef",
+  "inducing_commit_hash": ["1e5159219076ddb2e44338c667c83fd1bd43dfef"]
+},
+{
+  "cveid": "CVE-2025-38286", 
+  "repo_name": "torvalds/linux", 
+  "fix_commit_hash": "762ef7d1e6eefad9896560bfcb9bcf7f1b6df9c1", 
+  "vic_sha": "6732ae5cb47c4f9a72727585956f2a5e069d1637", 
+  "inducing_commit_hash": ["6732ae5cb47c4f9a72727585956f2a5e069d1637"]
+}, 
+{
+  "cveid": "CVE-2025-38285", 
+  "repo_name": "torvalds/linux", 
+  "fix_commit_hash": "3880cdbed1c4607e378f58fa924c5d6df900d1d3",
+  "vic_sha": "9594dc3c7e71b9f52bee1d7852eb3d4e3aea9e99", 
+  "inducing_commit_hash": ["9594dc3c7e71b9f52bee1d7852eb3d4e3aea9e99"]
+}, 
+{
+    "cveid": "CVE-2025-38284",
+   "repo_name": "torvalds/linux", 
+   "fix_commit_hash": "a70cf04b08f44f41bce14659aa7012674b15d9de", 
+   "vic_sha": "1fd4b3fe52efd5ad1647966f619c10988e7a4457",
+   "inducing_commit_hash": ["aa70ff0945fea2ed14046273609d04725f222616", "1fd4b3fe52efd5ad1647966f619c10988e7a4457", "1a82680839ee86f50ace41b6375ecee0c9320b12"]
+}, 
+{
+    "cveid": "CVE-2025-38283", 
+    "repo_name": "torvalds/linux", 
+    "fix_commit_hash": "2777a40998deb36f96b6afc48bd397cf58a4edf0",
+    "vic_sha": "b0eed085903e7758532696d64397901a75bba8ba", 
+    "inducing_commit_hash": ["b0eed085903e7758532696d64397901a75bba8ba"]   
+},
+{
+    "cveid": "CVE-2025-38282", 
+    "repo_name": "torvalds/linux", 
+    "fix_commit_hash": "071d8e4c2a3b0999a9b822e2eb8854784a350f8a", 
+    "vic_sha": "bdb2fd7fc56e197a63c0b0e7e07d25d5e20e7c72", 
+    "inducing_commit_hash": ["bdb2fd7fc56e197a63c0b0e7e07d25d5e20e7c72", "6b0afc2a21726b2d6b6aa441af40cafaf5405cc8"]
+},
+{
+  "cveid": "CVE-2025-38281", 
+  "repo_name": "torvalds/linux", 
+  "fix_commit_hash": "caf4b347c5dc40fdd125793b5e82ba9fc4de5275", 
+  "vic_sha": "69d54ce7491d046eaae05de7fb2493319a481991", 
+  "inducing_commit_hash": []
+}
+]
