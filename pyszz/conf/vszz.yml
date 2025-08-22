@@ -1,7 +1,7 @@
-szz_name: "v"                # 指定使用VSZZ算法
-ast_map_path: "/home/laoyu/pyszz/ASTMapEval_jar"  # AST映射工具路径（如ASTMapEval.jar所在目录）
-use_temp_dir: false            # 是否使用临时目录（可选，默认true）
-file_ext_to_parse:            # 需要分析的文件扩展名
+szz_name: "v"                # 指锟斤拷使锟斤拷VSZZ锟姐法
+ast_map_path: "/home/laoyu/pyszz/ASTMapEval_jar"  # AST映锟戒工锟斤拷路锟斤拷锟斤拷锟斤拷ASTMapEval.jar锟斤拷锟斤拷目录锟斤拷
+use_temp_dir: false            # 锟角凤拷使锟斤拷锟斤拷时目录锟斤拷锟斤拷选锟斤拷默锟斤拷true锟斤拷
+file_ext_to_parse:            # 锟斤拷要锟斤拷锟斤拷锟斤拷锟侥硷拷锟斤拷展锟斤拷
   - "c"
   - "cpp"
-only_deleted_lines: true      # 是否只关注删除的行（可选，默认true）
+only_deleted_lines: true      # 锟角凤拷只锟斤拷注删锟斤拷锟斤拷锟叫ｏ拷锟斤拷选锟斤拷默锟斤拷true锟斤拷
