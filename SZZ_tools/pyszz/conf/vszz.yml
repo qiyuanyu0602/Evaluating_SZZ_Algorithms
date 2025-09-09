@@ -1,7 +1,0 @@
-szz_name: "v"                # ָ��ʹ��VSZZ�㷨
-ast_map_path: "/home/laoyu/pyszz/ASTMapEval_jar"  # ASTӳ�乤��·������ASTMapEval.jar����Ŀ¼��
-use_temp_dir: false            # �Ƿ�ʹ����ʱĿ¼����ѡ��Ĭ��true��
-file_ext_to_parse:            # ��Ҫ�������ļ���չ��
-  - "c"
-  - "cpp"
-only_deleted_lines: true      # �Ƿ�ֻ��עɾ�����У���ѡ��Ĭ��true��
